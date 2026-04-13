@@ -10,5 +10,5 @@
         "outDir": "dist"
     },
     "include": ["src"],
-    "exclude": ["*.config.mts"]
+    "exclude": ["*.config.mts", "**/*.test.*"],
 }
